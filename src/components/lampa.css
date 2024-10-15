@@ -1,0 +1,22 @@
+.fel{
+    color: blue;
+    background-color: blue;
+    
+}
+
+.le{
+    color: black;
+    background-color: black;
+}
+.lampa{
+    border: 5px solid white;
+    height: 100px;
+    width: 100px;
+} 
+article{
+    display:grid;
+    grid-template-columns: repeat(3,100px);
+    width: 180px;
+    padding-top: 20px;
+    margin: auto;
+  }
