@@ -21,7 +21,12 @@ function App() {
        
       </header>
       <article>
+      
       <Jatekter  lista={lista} />
+  {/* <video controls autoplay loop>
+    <source src= "/fumo.mp4" type="video/mp4" />
+    Your browser does not support the video tag.
+  </video> */}
       </article>
     </div>
   );
